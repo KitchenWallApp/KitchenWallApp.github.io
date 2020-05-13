@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/media/2020/05/13/Kw 3.png"
     alt_text: Product Shot
-  background_image: "/media/2020/05/13/Kw 3.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
