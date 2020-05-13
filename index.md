@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/media/2020/05/13/1*u_I3FFDOJe7hO0KVSEL9IQ.jpeg"
   navigation:
-  - link: "/"
+  - link: "/Posts/"
     link_text: Blog
   - link: "/"
     link_text: Home
