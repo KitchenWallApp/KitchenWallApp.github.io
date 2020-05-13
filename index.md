@@ -20,17 +20,17 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>Kitchen Wall</strong><br>Shared Lists, Groceries, and To Do's"
+  content: From grocery shopping to vacations planning, homework to gift lists — people
+    are using Kitchen Wall to keep their life organized.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://join.kitchenwallapp.com/969qPcoLQL
+    button_text: 'Download '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/media/2020/05/13/Kw 3.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
