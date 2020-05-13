@@ -20,6 +20,10 @@ sections:
   new_doc_ext: md
   templates:
   - page-builder
+- type: jekyll-pages
+  label: Jekyll Pages
+  create: all
+  match: "**/*"
 - type: document
   path: _config.yml
   label: Config
