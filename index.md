@@ -33,7 +33,7 @@ page_sections:
   background_image: ''
 - template: simple-footer
   block: footer-1
-  content: Made in Austin, TX! ❤︎
+  content: Made by AP STUDIO, LLC! ❤︎
 
 ---
 foo bar
