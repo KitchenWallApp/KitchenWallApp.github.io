@@ -26,7 +26,7 @@ page_sections:
   cta:
     enabled: true
     url: https://join.kitchenwallapp.com/969qPcoLQL
-    button_text: 'Download '
+    button_text: 'DOWNLOAD '
   image:
     image: "/media/2020/05/13/Kw 3.png"
     alt_text: Product Shot
