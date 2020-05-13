@@ -23,8 +23,7 @@ sections:
 - type: jekyll-pages
   label: Jekyll Pages
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - page-builder
 - type: document
