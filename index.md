@@ -28,7 +28,7 @@ page_sections:
     url: https://join.kitchenwallapp.com/969qPcoLQL
     button_text: 'Download '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/media/2020/05/13/Kw 3.png"
     alt_text: Product Shot
   background_image: "/media/2020/05/13/Kw 3.png"
 - template: content-feature
